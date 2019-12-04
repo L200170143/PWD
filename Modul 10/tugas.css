@@ -1,0 +1,32 @@
+ID {
+    text-align: center;
+    display: block;
+    margin-top: 40pt;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+}
+
+NIM {
+    color: brown;
+    display: block;
+    font-style: italic;
+}
+
+Nama {
+    color: brown;
+    font-weight: bold;
+    font-size: 20pt;
+    display: block;
+}
+
+Kota {
+    font-family: verdana;
+    font-style: italic;
+    display: block;
+    color: brown;
+}
+Mahasiswa{
+    background: url(cat.jpg);
+    background-size: cover;
+}
